@@ -1,0 +1,40 @@
+body{
+    background-color: #fafafa;
+}
+
+.principal{
+    padding-top: 10%;
+}
+
+.login{
+    padding-top: 10%;
+    margin: 0 auto;
+}
+
+.form-login {
+    padding-top: 3%;
+}
+
+label{
+    padding-bottom: 2%;
+}
+
+.btn {
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 600;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+}
+
+.card-body{
+    padding: 2rem 2rem!important;
+}
